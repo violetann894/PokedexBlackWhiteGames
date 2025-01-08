@@ -1,0 +1,1790 @@
+[ 
+    { 
+        "name": "Victini",
+        "pokedexId": 0,
+        "species": "Victory Pokemon",
+        "types": [
+            "Psychic",
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\victini.png",
+        "blackDescription": "This Pokemon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+        "whiteDescription": "It creates an unlimited supply of energy inside its body, which it shares with those who touch it."
+    },
+    {
+        "name": "Snivy",
+        "pokedexId": 1,
+        "species": "Grass Snake Pokemon",
+        "types": [
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\snivy.png",
+        "blackDescription": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+        "whiteDescription": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop."
+    },
+    {
+        "name": "Servine",
+        "pokedexId": 2,
+        "species": "Grass Snake Pokemon",
+        "types": [
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\servine.png",
+        "blackDescription": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
+        "whiteDescription": "They avoid attacks by sinking into the shadows of thick foliage. They retaliate with masterful whipping techniques."
+    },
+    {
+        "name": "Serperior",
+        "pokedexId": 3,
+        "species": "Regal Pokemon",
+        "types": [
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\serperior.png",
+        "blackDescription": "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally.",
+        "whiteDescription": "They raise their heads to intimidate opponents but only give it their all when fighting a powerful opponent."
+    },
+    {
+        "name": "Tepig",
+        "pokedexId": 4,
+        "species": "Fire Pig Pokemon",
+        "types": [
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\tepig.png",
+        "blackDescription": "It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
+        "whiteDescription": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead."
+    },
+    {
+        "name": "Pignite",
+        "pokedexId": 5,
+        "species": "Fire Pig Pokemon",
+        "types": [
+            "Fire",
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\pignite.png",
+        "blackDescription": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
+        "whiteDescription": "Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases."
+    },
+    {
+        "name": "Emboar",
+        "pokedexId": 6,
+        "species": "Mega Fire Pokemon",
+        "types": [
+            "Fire",
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\emboar.png",
+        "blackDescription": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+        "whiteDescription": "It has mastered fast and powerful fighting moves. It grows a beard of fire."
+    },
+    {
+        "name": "Oshawott",
+        "pokedexId": 7,
+        "species": "Sea Otter Pokemon",
+        "types": [
+            "Water"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\oshawott.png",
+        "blackDescription": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+        "whiteDescription": "The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade."
+    },
+    {
+        "name": "Dewott",
+        "pokedexId": 8,
+        "species": "Discipline Pokemon",
+        "types": [
+            "Water"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\dewott.png",
+        "blackDescription": "Strict training is how it learns its flowing double-scalchop technique.",
+        "whiteDescription": "Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops."
+    },
+    {
+        "name": "Samurott",
+        "pokedexId": 9,
+        "species": "Formidable Pokemon",
+        "types": [
+            "Water"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\samurott.png",
+        "blackDescription": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
+        "whiteDescription": "Part of the armor on its anterior legs becomes a giant sword. Its cry alone is enough to intimidate most enemies."
+    },
+    {
+        "name": "Patrat",
+        "pokedexId": 10,
+        "species": "Scout Pokemon",
+        "types": [
+            "Normal"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\patrat.png",
+        "blackDescription": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+        "whiteDescription": "Extremely cautious, they take shifts to maintain a constant watch of their nest. They feel insecure without a lookout."
+    },
+    {
+        "name": "Watchog",
+        "pokedexId": 11,
+        "species": "Lookout Pokemon",
+        "types": [
+            "Normal"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\watchog.png",
+        "blackDescription": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+        "whiteDescription": "They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark."
+    },
+    {
+        "name": "Lillipup",
+        "pokedexId": 12,
+        "species": "Puppy Pokemon",
+        "types": [
+            "Normal"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\lillipup.png",
+        "blackDescription": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokemon flees.",
+        "white description": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings."
+    },
+    {
+        "name": "Herdier",
+        "pokedexId": 13,
+        "species": "Loyal Dog Pokemon",
+        "types": [
+            "Normal"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\herdier.png",
+        "blackDescription": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+        "whiteDescription": "It loyally follows its Trainer’s orders. For ages, they have helped Trainers raise Pokemon."
+    },
+    {
+        "name": "Stoutland",
+        "pokedexId": 14,
+        "species": "Big-Hearted Pokemon",
+        "types": [
+            "Normal"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\stoutland.png",
+        "blackDescription": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+        "whiteDescription": "This extremely wise Pokemon excels at rescuing people stranded at sea or in the mountains."
+    },
+    {
+        "name": "Purrloin",
+        "pokedexId": 15,
+        "species": "Devious Pokemon",
+        "types": [
+            "Dark"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\purrloin.png",
+        "blackDescription": "They steal from people for fun, but their victims can’t help but forgive them. Their deceptively cute act is perfect.",
+        "whiteDescription": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws."
+    },
+    {
+        "name": "Liepard",
+        "pokedexId": 16,
+        "species": "Cruel Pokemon",
+        "types": [
+            "Dark"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\liepard.png",
+        "blackDescription": "These Pokemon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
+        "whiteDescription": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react."
+    },
+    {
+        "name": "Pansage",
+        "pokedexId": 17,
+        "species": "Grass Monkey Pokemon",
+        "types": [
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\pansage.png",
+        "blackDescription": "This Pokemon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.",
+        "whiteDescription": "It shares the leaf on its head with weary-looking Pokemon. These leaves are known to relieve stress."
+    },
+    {
+        "name": "Simisage",
+        "pokedexId": 18,
+        "species": "Thorn Monkey Pokemon",
+        "types": [
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\simisage.png",
+        "blackDescription": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
+        "whiteDescription": "It attacks enemies with strikes of its thorn-covered tail. This Pokemon is wild tempered."
+    },
+    {
+        "name": "Pansear",
+        "pokedexId": 19,
+        "species": "High Temp Pokemon",
+        "types": [
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\pansear.png",
+        "blackDescription": "When it is angered, the temperature of its head tuft reaches 600° F. It uses its tuft to roast berries.",
+        "whiteDescription": "This Pokemon lives in caves in volcanoes. The fire within the tuft on its head can reach 600° F."
+    },
+    {
+        "name": "Simisear",
+        "pokedexId": 20,
+        "species": "Ember Pokemon",
+        "types": [
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\simisear.png",
+        "blackDescription": "It loves sweets because they become energy for the fire burning inside its body.",
+        "whiteDescription": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents."
+    },
+    {
+        "name": "Panpour",
+        "pokedexId": 21,
+        "species": "Spray Pokemon",
+        "types": [
+            "Water"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\panpour.png",
+        "blackDescription": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+        "whiteDescription": "It does not thrive in dry environments. It keeps itself damp by shooting water stored in its head tuft from its tail."
+    },
+    {
+        "name": "Simipour",
+        "pokedexId": 22,
+        "species": "Geyser Pokemon",
+        "types": [
+            "Water"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\simipour.png",
+        "blackDescription": "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.",
+        "whiteDescription": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall."
+    },
+    {
+        "name": "Munna",
+        "pokedexId": 23,
+        "species": "Dream Eater Pokemon",
+        "types": [
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\munna.png",
+        "blackDescription": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
+        "whiteDescription": "It eats the dreams of people and Pokemon. When it eats a pleasant dream, it expels pink-colored mist."
+    },
+    {
+        "name": "Musharna",
+        "pokedexId": 24,
+        "species": "Drowsing Pokemon",
+        "types": [
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\musharna.png",
+        "blackDescription": "The mist emanating from their foreheads is packed with the dreams of people and Pokemon.",
+        "whiteDescription": "With the mist from its forehead, it can create shapes of things from dreams it has eaten."
+    },
+    {
+        "name": "Pidove",
+        "pokedexId": 25,
+        "species": "Tiny Pigeon Pokemon",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\pidove.png",
+        "blackDescription": "Each follows its Trainer’s orders as best it can, but they sometimes fail to understand complicated commands.",
+        "whiteDescription": "These Pokemon live in cities. They are accustomed to people. Flocks often gather in parks and plazas."
+    },
+    {
+        "name": "Tranquill",
+        "pokedexId": 26,
+        "species": "Wild Pigeon Pokemon",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\tranquill.png",
+        "blackDescription": "It can return to its Trainer’s location regardless of the distance separating them.",
+        "whiteDescription": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war."
+    },
+    {
+        "name": "Unfezant",
+        "pokedexId": 27,
+        "species": "Proud Pokemon",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\unfezant.png",
+        "blackDescription": "Males swing their head plumage to threaten opponents. The females’ flying abilities surpass those of the males.",
+        "whiteDescription": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers."
+    },
+    {
+        "name": "Blitzle",
+        "pokedexId": 28,
+        "species": "Electrified Pokemon",
+        "types": [
+            "Electric"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\blitzle.png",
+        "blackDescription": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
+        "whiteDescription": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity."
+    },
+    {
+        "name": "Zebstrika",
+        "pokedexId": 29,
+        "species": "Thunderbolt Pokemon",
+        "types": [
+            "Electric"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\zebstrika.png",
+        "blackDescription": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+        "whiteDescription": "This ill-tempered Pokemon is dangerous because when it’s angry, it shoots lightning from its mane in all directions."
+    },
+    {
+        "name": "Roggenrola",
+        "pokedexId": 30,
+        "species": "Mantle Pokemon",
+        "types": [
+            "Rock"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\roggenrola.png",
+        "blackDescription": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+        "whiteDescription": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core."
+    },
+    {
+        "name": "Boldore",
+        "pokedexId": 31,
+        "species": "Ore Pokemon",
+        "types": [
+            "Rock"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\boldore.png",
+        "blackDescription": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
+        "whiteDescription": "Because its energy was too great to be contained, the energy leaked and formed orange crystals."
+    },
+    {
+        "name": "Gigalith",
+        "pokedexId": 32,
+        "species": "Compressed Pokemon",
+        "types": [
+            "Rock"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\gigalith.png",
+        "blackDescription": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+        "whiteDescription": "The solar energy absorbed by its body’s orange crystals is magnified internally and fired from its mouth."
+    },
+    {
+        "name": "Woobat",
+        "pokedexId": 33,
+        "species": "Bat Pokemon",
+        "types": [
+            "Psychic",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\woobat.png",
+        "blackDescription": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+        "whiteDescription": "Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind."
+    },
+    {
+        "name": "Swoobat",
+        "pokedexId": 34,
+        "species": "Courting Pokemon",
+        "types": [
+            "Psychic",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\swoobat.png",
+        "blackDescription": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
+        "whiteDescription": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift."
+    },
+    {
+        "name": "Drilbur",
+        "pokedexId": 35,
+        "species": "Mole Pokemon",
+        "types": [
+            "Ground"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\drilbur.png",
+        "blackDescription": "It can dig through the ground at a speed of 30 mph. It could give a car running above ground a good race.",
+        "whiteDescription": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed."
+    },
+    {
+        "name": "Excadrill",
+        "pokedexId": 36,
+        "species": "Subterrene Pokemon",
+        "types": [
+            "Ground",
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\excadrill.png",
+        "blackDescription": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+        "whiteDescription": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels."
+    },
+    {
+        "name": "Audino",
+        "pokedexId": 37,
+        "species": "Hearing Pokemon",
+        "types": [
+            "Normal"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\audino.png",
+        "blackDescription": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+        "whiteDescription": "Its auditory sense is astounding. It has a radar like ability to understand its surroundings through slight sounds."
+    },
+    {
+        "name": "Timburr",
+        "pokedexId": 38,
+        "species": "Muscular Pokemon",
+        "types": [
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\timburr.png",
+        "blackDescription": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+        "whiteDescription": "These Pokemon appear at building sites and help out with construction. They always carry squared logs."
+    },
+    {
+        "name": "Gurdurr",
+        "pokedexId": 39,
+        "species": "Muscular Pokemon",
+        "types": [
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\gurdurr.png",
+        "blackDescription": "This Pokemon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+        "whiteDescription": "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends."
+    },
+    {
+        "name": "Conkeldurr",
+        "pokedexId": 40,
+        "species": "Muscular Pokemon",
+        "types": [
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\conkeldurr.png",
+        "blackDescription": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+        "whiteDescription": "They use concrete pillars as walking canes. They know moves that enable them to swing the pillars freely in battle."
+    },
+    {
+        "name": "Tympole",
+        "pokedexId": 41,
+        "species": "Tadpole Pokemon",
+        "types": [
+            "Water"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\tympole.png",
+        "blackDescription": "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
+        "whiteDescription": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk."
+    },
+    {
+        "name": "Palpitoad",
+        "pokedexId": 42,
+        "species": "Vibration Pokemon",
+        "types": [
+            "Water",
+            "Ground"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\palpitoad.png",
+        "blackDescription": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+        "whiteDescription": "It lives in the water and on land. It uses its long, sticky tongue to capture prey."
+    },
+    {
+        "name": "Seismitoad",
+        "pokedexId": 43,
+        "species": "Vibration Pokemon",
+        "types": [
+            "Water",
+            "Ground"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\seismitoad.png",
+        "blackDescription": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+        "whiteDescription": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch."
+    },
+    {
+        "name": "Throh",
+        "pokedexId": 44,
+        "species": "Judo Pokemon",
+        "types": [
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\throh.png",
+        "blackDescription": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+        "whiteDescription": "When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five."
+    },
+    {
+        "name": "Sawk",
+        "pokedexId": 45,
+        "species": "Karate Pokemon",
+        "types": [
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\sawk.png",
+        "blackDescription": "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.",
+        "whiteDescription": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them."
+    },
+    {
+        "name": "Sewaddle",
+        "pokedexId": 46,
+        "species": "Sewing Pokemon",
+        "types": [
+            "Bug",
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\sewaddle.png",
+        "blackDescription": "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
+        "whiteDescription": "This Pokemon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth."
+    },
+    {
+        "name": "Swadloon",
+        "pokedexId": 47,
+        "species": "Leaf-Wrapped Pokemon",
+        "types": [
+            "Bug",
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\swadloon.png",
+        "blackDescription": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+        "whiteDescription": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests."
+    },
+    {
+        "name": "Leavanny",
+        "pokedexId": 48,
+        "species": "Nurturing Pokemon",
+        "types": [
+            "Bug",
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\leavanny.png",
+        "blackDescription": "Upon finding a small Pokemon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
+        "whiteDescription": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle."
+    },
+    {
+        "name": "Venipede",
+        "pokedexId": 49,
+        "species": "Centipede Pokemon",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\venipede.png",
+        "blackDescription": "Its bite injects a potent poison, enough to paralyze large bird Pokemon that try to prey on it.",
+        "whiteDescription": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive."
+    },
+    {
+        "name": "Whirlipede",
+        "pokedexId": 50,
+        "species": "Curlipede Pokemon",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\whirlipede.png",
+        "blackDescription": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+        "whiteDescription": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent."
+    },
+    {
+        "name": "Scolipede",
+        "pokedexId": 51,
+        "species": "Megapede Pokemon",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\scolipede.png",
+        "blackDescription": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+        "whiteDescription": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them."
+    },
+    {
+        "name": "Cottonee",
+        "pokedexId": 52,
+        "species": "Cotton Puff Pokemon",
+        "types": [
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\cottonee.png",
+        "blackDescription": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+        "whiteDescription": "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees."
+    },
+    {
+        "name": "Whimsicott",
+        "pokedexId": 53,
+        "species": "Windveiled Pokemon",
+        "types": [
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\whimsicott.png",
+        "blackDescription": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+        "whiteDescription": "Riding whirlwinds, they appear. These Pokemon sneak through gaps into houses and cause all sorts of mischief."
+    },
+    {
+        "name": "Petilil",
+        "pokedexId": 54,
+        "species": "Bulb Pokemon",
+        "types": [
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\petilil.png",
+        "blackDescription": "The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body.",
+        "whiteDescription": "Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants."
+    },
+    {
+        "name": "Lilligant",
+        "pokedexId": 55,
+        "species": "Flowering Pokemon",
+        "types": [
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\lilligant.png",
+        "blackDescription": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokemon is popular with celebrities.",
+        "whiteDescription": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it."
+    },
+    {
+        "name": "Basculin",
+        "pokedexId": 56,
+        "species": "Hostile Pokemon",
+        "types": [
+            "Water"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\basculin.png",
+        "blackDescription": "Red and blue Basculin get along so poorly, they’ll start fighting instantly. These Pokemon are very hostile.",
+        "whiteDescription": "Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school."
+    },
+    {
+        "name": "Sandile",
+        "pokedexId": 57,
+        "species": "Desert Croc Pokemon",
+        "types": [
+            "Ground",
+            "Dark"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\sandile.png",
+        "blackDescription": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
+        "whiteDescription": "It moves along below the sand’s surface, except for its nose and eyes. A dark membrane shields its eyes from the sun."
+    },
+    {
+        "name": "Krokorok",
+        "pokedexId": 58,
+        "species": "Desert Croc Pokemon",
+        "types": [
+            "Ground",
+            "Dark"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\krokorok.png",
+        "blackDescription": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+        "whiteDescription": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness."
+    },
+    {
+        "name": "Krookodile",
+        "pokedexId": 59,
+        "species": "Intimidation Pokemon",
+        "types": [
+            "Ground",
+            "Dark"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\krookodile.png",
+        "blackDescription": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+        "whiteDescription": "It can expand the focus of its eyes, enabling it to see objects in the far distance as if it were using binoculars."
+    },
+    {
+        "name": "Darumaka",
+        "pokedexId": 60,
+        "species": "Zen Charm Pokemon",
+        "types": [
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\darumaka.png",
+        "blackDescription": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
+        "whiteDescription": "Darumaka’s droppings are hot, so people used to put them in their clothes to keep themselves warm."
+    },
+    {
+        "name": "Darmanitan",
+        "pokedexId": 61,
+        "species": "Blazing Pokemon",
+        "types": [
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\darmanitan.png",
+        "blackDescription": "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch.",
+        "whiteDescription": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally."
+    },
+    {
+        "name": "Maractus",
+        "pokedexId": 62,
+        "species": "Cactus Pokemon",
+        "types": [
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\maractus.png",
+        "blackDescription": "It uses an up-tempo song and dance to drive away the bird Pokemon that prey on its flower seeds.",
+        "whiteDescription": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas."
+    },
+    {
+        "name": "Dwebble",
+        "pokedexId": 63,
+        "species": "Rock Inn Pokemon",
+        "types": [
+            "Bug",
+            "Rock"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\dwebble.png",
+        "blackDescription": "This Pokemon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
+        "whiteDescription": "It makes a hole in a suitable rock. If that rock breaks, the Pokemon remains agitated until it locates a replacement."
+    },
+    {
+        "name": "Crustle",
+        "pokedexId": 64,
+        "species": "Stone Home Pokemon",
+        "types": [
+            "Bug",
+            "Rock"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\crustle.png",
+        "blackDescription": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+        "whiteDescription": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land."
+    },
+    {
+        "name": "Scraggy",
+        "pokedexId": 65,
+        "species": "Shedding Pokemon",
+        "types": [
+            "Dark",
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\scraggy.png",
+        "blackDescription": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+        "whiteDescription": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick."
+    },
+    {
+        "name": "Scrafty",
+        "pokedexId": 66,
+        "species": "Hoodlum Pokemon",
+        "types": [
+            "Dark",
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\scrafty.png",
+        "blackDescription": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+        "whiteDescription": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader."
+    },
+    {
+        "name": "Sigilyph",
+        "pokedexId": 67,
+        "species": "Avianoid Pokemon",
+        "types": [
+            "Psychic",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\sigilyph.png",
+        "blackDescription": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
+        "whiteDescription": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory."
+    },
+    {
+        "name": "Yamask",
+        "pokedexId": 68,
+        "species": "Spirit Pokemon",
+        "types": [
+            "Ghost"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\yamask.png",
+        "blackDescription": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+        "whiteDescription": "These Pokemon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life."
+    },
+    {
+        "name": "Cofagrigus",
+        "pokedexId": 69,
+        "species": "Coffin Pokemon",
+        "types": [
+            "Ghost"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\cofagrigus.png",
+        "blackDescription": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+        "whiteDescription": "They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold."
+    },
+    {
+        "name": "Tirtouga",
+        "pokedexId": 70,
+        "species": "Prototurtle Pokemon",
+        "types": [
+            "Water",
+            "Rock"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\tirtouga.png",
+        "blackDescription": "Restored from a fossil, this Pokemon can dive to depths beyond half a mile.",
+        "whiteDescription": "About 100 million years ago, these Pokemon swam in oceans. It is thought they also went on land to attack prey."
+    },
+    {
+        "name": "Carracosta",
+        "pokedexId": 71,
+        "species": "Prototurtle Pokemon",
+        "types": [
+            "Water",
+            "Rock"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\carracosta.png",
+        "blackDescription": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+        "whiteDescription": "Incredible jaw strength enables them to chew up steel beams and rocks along with their prey."
+    },
+    {
+        "name": "Archen",
+        "pokedexId": 72,
+        "species": "First Bird Pokemon",
+        "types": [
+            "Rock",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\archen.png",
+        "blackDescription": "Said to be an ancestor of bird Pokemon, they were unable to fly and moved about by hopping from one branch to another.",
+        "whiteDescription": "Revived from a fossil, this Pokemon is thought to be the ancestor of all bird Pokemon."
+    },
+    {
+        "name": "Archeops",
+        "pokedexId": 73,
+        "species": "First Bird Pokemon",
+        "types": [
+            "Rock",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\archeops.png",
+        "blackDescription": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+        "whiteDescription": "It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile."
+    },
+    {
+        "name": "Trubbish",
+        "pokedexId": 74,
+        "species": "Trash Bag Pokemon",
+        "types": [
+            "Poison"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\trubbish.png",
+        "blackDescription": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+        "whiteDescription": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokemon."
+    },
+    {
+        "name": "Garbodor",
+        "pokedexId": 75,
+        "species": "Trash Heap Pokemon",
+        "types": [
+            "Poison"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\garbodor.png",
+        "blackDescription": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+        "whiteDescription": "They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips."
+    },
+    {
+        "name": "Zorua",
+        "pokedexId": 76,
+        "species": "Tricky Fox Pokemon",
+        "types": [
+            "Dark"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\zorua.png",
+        "blackDescription": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+        "whiteDescription": "To protect themselves from danger, they hide their true identities by transforming into people and Pokemon."
+    },
+    {
+        "name": "Zoroark",
+        "pokedexId": 77,
+        "species": "Illusion Fox Pokemon",
+        "types": [
+            "Dark"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\zoroark.png",
+        "blackDescription": "Bonds between these Pokemon are very strong. It protects the safety of its pack by tricking its opponents.",
+        "whiteDescription": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery."
+    },
+    {
+        "name": "Minccino",
+        "pokedexId": 78,
+        "species": "Chinchilla Pokemon",
+        "types": [
+            "Normal"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\minccino.png",
+        "blackDescription": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
+        "whiteDescription": "These Pokemon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms."
+    },
+    {
+        "name": "Cinccino",
+        "pokedexId": 79,
+        "species": "Scarf Pokemon",
+        "types": [
+            "Normal"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\cinccino.png",
+        "blackDescription": "Their white fur is coated in a special oil that makes it easy for them to deflect attacks.",
+        "whiteDescription": "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up."
+    },
+    {
+        "name": "Gothita",
+        "pokedexId": 80,
+        "species": "Fixation Pokemon",
+        "types": [
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\gothita.png",
+        "blackDescription": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+        "whiteDescription": "They intently observe both Trainers and Pokemon. Apparently, they are looking at something that only Gothita can see."
+    },
+    {
+        "name": "Gothorita",
+        "pokedexId": 81,
+        "species": "Manipulate Pokemon",
+        "types": [
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\gothorita.png",
+        "blackDescription": "They use hypnosis to control people and Pokemon. Tales of Gothorita leading people astray are told in every corner.",
+        "whiteDescription": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones."
+    },
+    {
+        "name": "Gothitelle",
+        "pokedexId": 82,
+        "species": "Astral Body Pokemon",
+        "types": [
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\gothitelle.png",
+        "blackDescription": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+        "whiteDescription": "They can predict the future from the placement and movement of the stars. They can see Trainers’ life spans."
+    },
+    {
+        "name": "Solosis",
+        "pokedexId": 83,
+        "species": "Cell Pokemon",
+        "types": [
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\solosis.png",
+        "blackDescription": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+        "whiteDescription": "Because their bodies are enveloped in a special liquid, they can survive in any environment."
+    },
+    {
+        "name": "Duosion",
+        "pokedexId": 84,
+        "species": "Mitosis Pokemon",
+        "types": [
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\duosion.png",
+        "blackDescription": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+        "whiteDescription": "When their brains, now divided in two, are thinking the same thoughts, these Pokemon exhibit their maximum power."
+    },
+    {
+        "name": "Reuniclus",
+        "pokedexId": 85,
+        "species": "Multiplying Pokemon",
+        "types": [
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\reuniclus.png",
+        "blackDescription": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+        "whiteDescription": "These remarkably intelligent Pokemon fight by controlling arms that can grip with rock-crushing power."
+    },
+    {
+        "name": "Ducklett",
+        "pokedexId": 86,
+        "species": "Water Bird Pokemon",
+        "types": [
+            "Water",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\ducklett.png",
+        "blackDescription": "These bird Pokemon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
+        "whiteDescription": "When attacked, it uses its feathers to splash water, escaping under cover of the spray."
+    },
+    {
+        "name": "Swanna",
+        "pokedexId": 87,
+        "species": "White Bird Pokemon",
+        "types": [
+            "Water",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\swanna.png",
+        "blackDescription": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+        "whiteDescription": "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes."
+    },
+    {
+        "name": "Vanillite",
+        "pokedexId": 88,
+        "species": "Fresh Snow Pokemon",
+        "types": [
+            "Ice"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\vanillite.png",
+        "blackDescription": "The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them.",
+        "whiteDescription": "This Pokemon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow."
+    },
+    {
+        "name": "Vanillish",
+        "pokedexId": 89,
+        "species": "Icy Snow Pokemon",
+        "types": [
+            "Ice"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\vanillish.png",
+        "blackDescription": "Snowy mountains are this Pokemon’s habitat. During an ancient ice age, they moved to southern areas.",
+        "whiteDescription": "It conceals itself from enemy eyes by creating many small ice particles and hiding among them."
+    },
+    {
+        "name": "Vanilluxe",
+        "pokedexId": 90,
+        "species": "Snowstorm Pokemon",
+        "types": [
+            "Ice"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\vanilluxe.png",
+        "blackDescription": "Swallowing large amounts of water, they make snow clouds inside their bodies and attack their foes with violent blizzards.",
+        "whiteDescription": "If both heads get angry simultaneously, this Pokemon expels a blizzard, burying everything in snow."
+    },
+    {
+        "name": "Deerling",
+        "pokedexId": 91,
+        "species": "Season Pokemon",
+        "types": [
+            "Normal",
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\deerling.png",
+        "blackDescription": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
+        "whiteDescription": "The turning of the seasons changes the color and scent of this Pokemon’s fur. People use it to mark the seasons."
+    },
+    {
+        "name": "Sawsbuck",
+        "pokedexId": 92,
+        "species": "Season Pokemon",
+        "types": [
+            "Normal",
+            "Grass"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\sawsbuck.png",
+        "blackDescription": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck’s horns.",
+        "whiteDescription": "The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns."
+    },
+    {
+        "name": "Emolga",
+        "pokedexId": 93,
+        "species": "Sky Squirrel Pokemon",
+        "types": [
+            "Electric",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\emolga.png",
+        "blackDescription": "The energy made in its cheeks’ electric pouches is stored inside its membrane and released while it is gliding.",
+        "whiteDescription": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity."
+    },
+    {
+        "name": "Karrablast",
+        "pokedexId": 94,
+        "species": "Clamping Pokemon",
+        "types": [
+            "Bug"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\karrablast.png",
+        "blackDescription": "These mysterious Pokemon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+        "whiteDescription": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokemon targets Shelmet."
+    },
+    {
+        "name": "Escavalier",
+        "pokedexId": 95,
+        "species": "Cavalry Pokemon",
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\escavalier.png",
+        "blackDescription": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
+        "whiteDescription": "These Pokemon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body."
+    },
+    {
+        "name": "Foongus",
+        "pokedexId": 96,
+        "species": "Mushroom Pokemon",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\foongus.png",
+        "blackDescription": "It lures people in with its Poke Ball pattern, then releases poison spores. Why it resembles a Poke Ball is unknown.",
+        "whiteDescription": "For some reason, this Pokemon resembles a Poke Ball. They release poison spores to repel those who try to catch them."
+    },
+    {
+        "name": "Amoonguss",
+        "pokedexId": 97,
+        "species": "Mushroom Pokemon",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\amoonguss.png",
+        "blackDescription": "It lures prey close by dancing and waving its arm caps, which resemble Poke Balls, in a swaying motion.",
+        "whiteDescription": "They show off their Poke Ball caps to lure prey, but very few Pokemon are fooled by this."
+    },
+    {
+        "name": "Frillish",
+        "pokedexId": 98,
+        "species": "Floating Pokemon",
+        "types": [
+            "Water",
+            "Ghost"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\frillish.png",
+        "blackDescription": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
+        "whiteDescription": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface."
+    },
+    {
+        "name": "Jellicent",
+        "pokedexId": 99,
+        "species": "Floating Pokemon",
+        "types": [
+            "Water",
+            "Ghost"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\jellicent.png",
+        "blackDescription": "The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.",
+        "whiteDescription": "They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy."
+    },
+    {
+        "name": "Alomomola",
+        "pokedexId": 100,
+        "species": "Caring Pokemon",
+        "types": [
+            "Water"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\alomomola.png",
+        "blackDescription": "The special membrane enveloping Alomomola has the ability to heal wounds.",
+        "whiteDescription": "Floating in the open sea is how they live. When they find a wounded Pokemon, they embrace it and bring it to shore."
+    },
+    {
+        "name": "Joltik",
+        "pokedexId": 101,
+        "species": "Attaching Pokemon",
+        "types": [
+            "Bug",
+            "Electric"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\joltik.png",
+        "blackDescription": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+        "whiteDescription": "They attach themselves to large-bodied Pokemon and absorb static electricity, which they store in an electric pouch."
+    },
+    {
+        "name": "Galvantula",
+        "pokedexId": 102,
+        "species": "EleSpider Pokemon",
+        "types": [
+            "Bug",
+            "Electric"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\galvantula.png",
+        "blackDescription": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+        "whiteDescription": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it."
+    },
+    {
+        "name": "Ferroseed",
+        "pokedexId": 103,
+        "species": "Thorn Seed Pokemon",
+        "types": [
+            "Grass",
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\ferroseed.png",
+        "blackDescription": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+        "whiteDescription": "They stick their spikes into cave walls and absorb the minerals they find in the rock."
+    },
+    {
+        "name": "Ferrothorn",
+        "pokedexId": 104,
+        "species": "Thorn Pod Pokemon",
+        "types": [
+            "Grass",
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\ferrothorn.png",
+        "blackDescription": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
+        "whiteDescription": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them."
+    },
+    {
+        "name": "Klink",
+        "pokedexId": 105,
+        "species": "Gear Pokemon",
+        "types": [
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\klink.png",
+        "blackDescription": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+        "whiteDescription": "Interlocking two bodies and spinning around generates the energy they need to live."
+    },
+    {
+        "name": "Klang",
+        "pokedexId": 106,
+        "species": "Gear Pokemon",
+        "types": [
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\klang.png",
+        "blackDescription": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+        "whiteDescription": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don’t return."
+    },
+    {
+        "name": "Klinklang",
+        "pokedexId": 107,
+        "species": "Gear Pokemon",
+        "types": [
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\klinklang.png",
+        "blackDescription": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+        "whiteDescription": "The gear with the red core is rotated at high speed for a rapid energy charge."
+    },
+    {
+        "name": "Tynamo",
+        "pokedexId": 108,
+        "species": "EleFish Pokemon",
+        "types": [
+            "Electric"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\tynamo.png",
+        "blackDescription": "While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning.",
+        "whiteDescription": "These Pokemon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger."
+    },
+    {
+        "name": "Eelektrik",
+        "pokedexId": 109,
+        "species": "EleFish Pokemon",
+        "types": [
+            "Electric"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\eelektrik.png",
+        "blackDescription": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+        "whiteDescription": "These Pokemon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity."
+    },
+    {
+        "name": "Eelektross",
+        "pokedexId": 110,
+        "species": "EleFish Pokemon",
+        "types": [
+            "Electric"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\eelektross.png",
+        "blackDescription": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+        "whiteDescription": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity."
+    },
+    {
+        "name": "Elgyem",
+        "pokedexId": 111,
+        "species": "Cerebral Pokemon",
+        "types": [
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\elgyem.png",
+        "blackDescription": "It uses its strong psychic power to squeeze its opponent’s brain, causing unendurable headaches.",
+        "whiteDescription": "This Pokemon had never been seen until it appeared from far in the desert 50 years ago."
+    },
+    {
+        "name": "Beheeyem",
+        "pokedexId": 112,
+        "species": "Cerebral Pokemon",
+        "types": [
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\beheeyem.png",
+        "blackDescription": "It can manipulate an opponent’s memory. Apparently, it communicates by flashing its three different-colored fingers.",
+        "whiteDescription": "It uses psychic power to control an opponent’s brain and tamper with its memories."
+    },
+    {
+        "name": "Litwick",
+        "pokedexId": 113,
+        "species": "Candle Pokemon",
+        "types": [
+            "Ghost",
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\litwick.png",
+        "blackDescription": "Litwick shines a light that absorbs the life energy of people and Pokemon, which becomes the fuel that it burns.",
+        "whiteDescription": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it."
+    },
+    {
+        "name": "Lampent",
+        "pokedexId": 114,
+        "species": "Lamp Pokemon",
+        "types": [
+            "Ghost",
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\lampent.png",
+        "blackDescription": "This ominous Pokemon is feared. Through cities it wanders, searching for the spirits of the fallen.",
+        "whiteDescription": "It arrives near the moment of death and steals spirit from the body."
+    },
+    {
+        "name": "Chandelure",
+        "pokedexId": 115,
+        "species": "Luring Pokemon",
+        "types": [
+            "Ghost",
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\chandelure.png",
+        "blackDescription": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
+        "whiteDescription": "Being consumed in Chandelure’s flame burns up the spirit, leaving the body behind."
+    },
+    {
+        "name": "Axew",
+        "pokedexId": 116,
+        "species": "Tusk Pokemon",
+        "types": [
+            "Dragon"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\axew.png",
+        "blackDescription": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+        "whiteDescription": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly."
+    },
+    {
+        "name": "Fraxure",
+        "pokedexId": 117,
+        "species": "Axe Jaw Pokemon",
+        "types": [
+            "Dragon"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\fraxure.png",
+        "blackDescription": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they’ve been fighting.",
+        "whiteDescription": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent."
+    },
+    {
+        "name": "Haxorus",
+        "pokedexId": 118,
+        "species": "Axe Jaw Pokemon",
+        "types": [
+            "Dragon"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\haxorus.png",
+        "blackDescription": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+        "whiteDescription": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokemon are covered in hard armor."
+    },
+    {
+        "name": "Cubchoo",
+        "pokedexId": 119,
+        "species": "Chill Pokemon",
+        "types": [
+            "Ice"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\cubchoo.png",
+        "blackDescription": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
+        "whiteDescription": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves."
+    },
+    {
+        "name": "Beartic",
+        "pokedexId": 120,
+        "species": "Freezing Pokemon",
+        "types": [
+            "Ice"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\beartic.png",
+        "blackDescription": "It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey.",
+        "whiteDescription": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat."
+    },
+    {
+        "name": "Cryogonal",
+        "pokedexId": 121,
+        "species": "Crystallizing Pokemon",
+        "types": [
+            "Ice"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\cryogonal.png",
+        "blackDescription": "When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice.",
+        "whiteDescription": "They are born in snow clouds. They use chains made of ice crystals to capture prey."
+    },
+    {
+        "name": "Shelmet",
+        "pokedexId": 122,
+        "species": "Snail Pokemon",
+        "types": [
+            "Bug"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\shelmet.png",
+        "blackDescription": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
+        "whiteDescription": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown."
+    },
+    {
+        "name": "Accelgor",
+        "pokedexId": 123,
+        "species": "Shell Out Pokemon",
+        "types": [
+            "Bug"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\accelgor.png",
+        "blackDescription": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+        "whiteDescription": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements."
+    },
+    {
+        "name": "Stunfisk",
+        "pokedexId": 124,
+        "species": "Trap Pokemon",
+        "types": [
+            "Ground",
+            "Electric"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\stunfisk.png",
+        "blackDescription": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+        "whiteDescription": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity."
+    },
+    {
+        "name": "Mienfoo",
+        "pokedexId": 125,
+        "species": "Martial Arts Pokemon",
+        "types": [
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\mienfoo.png",
+        "blackDescription": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
+        "whiteDescription": "They have mastered elegant combos. As they concentrate, their battle moves become swifter and more precise."
+    },
+    {
+        "name": "Mienshao",
+        "pokedexId": 126,
+        "species": "Martial Arts Pokemon",
+        "types": [
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\mienshao.png",
+        "blackDescription": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+        "whiteDescription": "They use the long fur on their arms as a whip to strike their opponents."
+    },
+    {
+        "name": "Druddigon",
+        "pokedexId": 127,
+        "species": "Cave Pokemon",
+        "types": [
+            "Dragon"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\druddigon.png",
+        "blackDescription": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
+        "whiteDescription": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock."
+    },
+    {
+        "name": "Golett",
+        "pokedexId": 128,
+        "species": "Automaton Pokemon",
+        "types": [
+            "Ground",
+            "Ghost"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\golett.png",
+        "blackDescription": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+        "whiteDescription": "These Pokemon are thought to have been created by the science of an ancient and mysterious civilization."
+    },
+    {
+        "name": "Golurk",
+        "pokedexId": 129,
+        "species": "Automaton Pokemon",
+        "types": [
+            "Ground",
+            "Ghost"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\golurk.png",
+        "blackDescription": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+        "whiteDescription": "It is said that Golurk were ordered to protect people and Pokemon by the ancient people who made them."
+    },
+    {
+        "name": "Pawniard",
+        "pokedexId": 130,
+        "species": "Sharp Blade Pokemon",
+        "types": [
+            "Dark",
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\pawniard.png",
+        "blackDescription": "Blades comprise this Pokemon’s entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+        "whiteDescription": "They fight at Bisharp’s command. They cling to their prey and inflict damage by sinking their blades into it."
+    },
+    {
+        "name": "Bisharp",
+        "pokedexId": 131,
+        "species": "Sword Blade Pokemon",
+        "types": [
+            "Dark",
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\bisharp.png",
+        "blackDescription": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
+        "whiteDescription": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey."
+    },
+    {
+        "name": "Bouffalant",
+        "pokedexId": 132,
+        "species": "Bash Buffalo Pokemon",
+        "types": [
+            "Normal"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\bouffalant.png",
+        "blackDescription": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+        "whiteDescription": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train."
+    },
+    {
+        "name": "Rufflet",
+        "pokedexId": 133,
+        "species": "Eaglet Pokemon",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\rufflet.png",
+        "blackDescription": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+        "whiteDescription": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger."
+    },
+    {
+        "name": "Braviary",
+        "pokedexId": 134,
+        "species": "Valiant Pokemon",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\braviary.png",
+        "blackDescription": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+        "whiteDescription": "The more scars they have, the more respect these brave soldiers of the sky get from their peers."
+    },
+    {
+        "name": "Vullaby",
+        "pokedexId": 135,
+        "species": "Diapered Pokemon",
+        "types": [
+            "Dark",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\vullaby.png",
+        "blackDescription": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+        "whiteDescription": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokemon."
+    },
+    {
+        "name": "Mandibuzz",
+        "pokedexId": 136,
+        "species": "Bone Vulture Pokemon",
+        "types": [
+            "Dark",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\mandibuzz.png",
+        "blackDescription": "It makes a nest out of bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones.",
+        "whiteDescription": "Watching from the sky, they swoop to strike weakened Pokemon on the ground. They decorate themselves with bones."
+    },
+    {
+        "name": "Heatmor",
+        "pokedexId": 137,
+        "species": "Anteater Pokemon",
+        "types": [
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\heatmor.png",
+        "blackDescription": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
+        "whiteDescription": "Using their very hot, flame-covered tongues, they burn through Durant’s steel bodies and consume their insides."
+    },
+    {
+        "name": "Durant",
+        "pokedexId": 138,
+        "species": "Iron Ant Pokemon",
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\durant.png",
+        "blackDescription": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+        "whiteDescription": "Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes."
+    },
+    {
+        "name": "Deino",
+        "pokedexId": 139,
+        "species": "Irate Pokemon",
+        "types": [
+            "Dark",
+            "Dragon"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\deino.png",
+        "blackDescription": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
+        "whiteDescription": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds."
+    },
+    {
+        "name": "Zweilous",
+        "pokedexId": 140,
+        "species": "Hostile Pokemon",
+        "types": [
+            "Dark",
+            "Dragon"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\zweilous.png",
+        "blackDescription": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+        "whiteDescription": "Since their two heads do not get along and compete with each other for food, they always eat too much."
+    },
+    {
+        "name": "Hydreigon",
+        "pokedexId": 141,
+        "species": "Brutal Pokemon",
+        "types": [
+            "Dark",
+            "Dragon"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\hydreigon.png",
+        "blackDescription": "This brutal Pokemon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
+        "whiteDescription": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything."
+    },
+    {
+        "name": "Larvesta",
+        "pokedexId": 142,
+        "species": "Torch Pokemon",
+        "types": [
+            "Bug",
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\larvesta.png",
+        "blackDescription": "This Pokemon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames.",
+        "whiteDescription": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies."
+    },
+    {
+        "name": "Volcarona",
+        "pokedexId": 143,
+        "species": "Sun Pokemon",
+        "types": [
+            "Bug",
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\volcarona.png",
+        "blackDescription": "When volcanic ash darkened the atmosphere, it is said that Volcarona’s fire provided a replacement for the sun.",
+        "whiteDescription": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales."
+    },
+    {
+        "name": "Cobalion",
+        "pokedexId": 144,
+        "species": "Iron Will Pokemon",
+        "types": [
+            "Steel",
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\cobalion.png",
+        "blackDescription": "This legendary Pokemon battled against humans to protect Pokemon. Its personality is calm and composed.",
+        "whiteDescription": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokemon obey it."
+    },
+    {
+        "name": "Terrakion",
+        "pokedexId": 145,
+        "species": "Cavern Pokemon",
+        "types": [
+            "Rock",
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\terrakion.png",
+        "blackDescription": "This Pokemon came to the defense of Pokemon that had lost their homes in a war among humans.",
+        "whiteDescription": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokemon is spoken of in legends."
+    },
+    {
+        "name": "Virizion",
+        "pokedexId": 146,
+        "species": "Grassland Pokemon",
+        "types": [
+            "Grass",
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\virizion.png",
+        "blackDescription": "This Pokemon fought humans in order to protect its friends. Legends about it continue to be passed down.",
+        "whiteDescription": "Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents."
+    },
+    {
+        "name": "Tornadus",
+        "pokedexId": 147,
+        "species": "Cyclone Pokemon",
+        "types": [
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\tornadus.png",
+        "blackDescription": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+        "whiteDescription": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away."
+    },
+    {
+        "name": "Thundurus",
+        "pokedexId": 148,
+        "species": "Bolt Strike Pokemon",
+        "types": [
+            "Electric",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\thundurus.png",
+        "blackDescription": "Countless charred remains mar the landscape of places through which Thundurus has passed.",
+        "whiteDescription": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts."
+    },
+    {
+        "name": "Reshiram",
+        "pokedexId": 149,
+        "species": "Vast White Pokemon",
+        "types": [
+            "Dragon",
+            "Fire"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\reshiram.png",
+        "blackDescription": "This Pokemon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
+        "whiteDescription": "When Reshiram’s tail flares, the heat energy moves the atmosphere and changes the world’s weather."
+    },
+    {
+        "name": "Zekrom",
+        "pokedexId": 150,
+        "species": "Deep Black Pokemon",
+        "types": [
+            "Dragon",
+            "Electric"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\zekrom.png",
+        "blackDescription": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+        "whiteDescription": "This Pokemon appears in legends. In its tail, it has a giant generator that creates electricity."
+    },
+    {
+        "name": "Landorus",
+        "pokedexId": 151,
+        "species": "Abundance Pokemon",
+        "types": [
+            "Ground",
+            "Flying"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\landorus.png",
+        "blackDescription": "Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”",
+        "whiteDescription": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size."
+    },
+    {
+        "name": "Kyurem",
+        "pokedexId": 152,
+        "species": "Boundary Pokemon",
+        "types": [
+            "Dragon",
+            "Ice"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\kyurem.png",
+        "blackDescription": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+        "whiteDescription": "It can produce ultracold air. Its body is frozen."
+    },
+    {
+        "name": "Keldeo",
+        "pokedexId": 153,
+        "species": "Colt Pokemon",
+        "types": [
+            "Water",
+            "Fighting"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\keldeo.png",
+        "blackDescription": "By blasting water from its hooves, it can glide across water. It excels at using leg moves while battling.",
+        "whiteDescription": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts."
+    },
+    {
+        "name": "Meloetta",
+        "pokedexId": 154,
+        "species": "Melody Pokemon",
+        "types": [
+            "Normal",
+            "Psychic"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\meloetta.png",
+        "blackDescription": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+        "whiteDescription": "Many famous songs have been inspired by the melodies that Meloetta plays."
+    },
+    {
+        "name": "Genesect",
+        "pokedexId": 155,
+        "species": "Paleozoic Pokemon",
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "imageSource": "C:\\Users\\Rache\\eclipse-workspace\\PokedexBlackWhite\\pokemon_images\\genesect.png",
+        "blackDescription": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
+        "whiteDescription": "This ancient bug Pokemon was altered by Team Plasma. They upgraded the cannon on its back."
+    }
+]
